@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+  
+.head{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    background:#E3D7F1;
+    padding:5px 30px;
+}
+
+.ul{
+    display:flex;
+    gap:6rem;
+    list-style: none;
+    color:black;
+    font-size:20px;
+    font-family: "Gill Sans", sans-serif;
+}
+  
+.account1{
+    display:flex;
+    gap:25px;
+    color:black;
+    font-size:15px;
+}
+
+.img{
+    width: 700px;
+}
+
+.cards{
+    display:flex;
+    justify-content:space-evenly;
+    padding:80px 0 0 0;
+}
+
+.title{
+    padding:100px 0 0 0;
+    font-family:sans-serif;
+    font-size:35px;
+}
+
+.text{
+    padding:30px 0 0 0;
+    font-family:sans-serif;
+    font-size:20px; 
+}
+
+
+.btn1{
+    font-size: 20px;
+    border: none;
+    background:#A790C6;
+    color:white;
+    padding: 10px 20px;
+    border-radius:20px;
+    align-item:center;
+    margin:100px 0;
+}
+
+.btn2{
+    font-size: 20px;
+    border: solid #A790C6;
+    background:white;
+    color:#A790C6;
+    padding: 8px 50px;
+    border-radius:20px;
+    align-item:center;
+    margin:10px;
+}
+
+.cards2{
+    display:flex;
+    justify-content:space-around;
+    background:#EDF2FF;
+    margin:80px 0;
+    padding:90px 50px;
+}
+
+.card1{
+    background:#FFFFFF;
+    border-radius:30px;
+    padding:40px 40px;
+}
+
+.btn{
+    font-size: 15px;
+    border: none;
+    background:#A790C6;
+    color:white;
+    padding: 10px 30px 10px 30px;
+    border-radius:10px;
+    align-item:center;
+    text-align:center;
+}
+
+.text2{
+    font-size:22px;
+    font-family:sans-serif;
+    color:DarkGray;
+    padding:0 0 30px 0;
+}
+
+.title1{
+    font-family:sans-serif;
+    font-size:35px;
+    padding:50px 0 30px 0;
+}
+.img2{
+    width: 200px;
+}
+.text1{
+    display:inline-block;
+    align-item:center;
+    font-size:45px;
+    font-family:sans-serif;
+    color:#245A9A;
+    padding:0 20px;
+}
+
+.title2{
+    font-family:sans-serif;
+    font-size:35px;
+    padding:40px 0;
+}
+
+.container1{
+    margin: 0 auto;
+    width: 70%; 
+}
+
+.cards3{
+    display:flex;
+    justify-content:space-between;
+}
+
+.icon1{
+    text-align:center;
+    color:white;
+    background:#A790C6;
+    padding:20px;
+    align-items:center;
+}
+
+.title3{
+    font-size:20px;
+    padding:20px 0;
+    font-family:sans-serif;
+}
+
+.text3{
+    text-align:center;
+    font-family:sans-serif;
+    font-size:30px;
+    padding:10px 10px;
+}
+
+.title4{
+    text-align:center;
+    font-size:40px;
+    padding:70px 0 80px 500px;
+}
+
+.cards4{
+    display:flex;
+    justify-content:space-between;
+    padding:200px 0 0 0;
+}
+
+.img1{
+    padding:150px 0 50px 50px;
+    width:400px;
+}
+
+.title5{
+    font-family:sans-serif;
+    color:#404040;
+}
+
+.text4{
+    font-family:sans-serif;
+    color:#404040;
+    padding:30px 0 0 0;
+}
+
+.cards5{
+    display:flex;
+    justify-content:space-between;
+    margin:30px 0;
+}
+
+.card5{
+    display:flex;
+    justify-content:space-between;
+}
+.text5{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 0 20px 20px;
+}
+
+.img2{
+    width:100px;
+    padding:30px 0;
+}
+
+.cards6{
+    display:flex;
+    justify-content:space-between;
+    padding:20px 0;
+}
+
+.title6{
+    text-align:center;
+    font-size:30px;
+    font-family:sans-serif;
+    padding:100px 0 0 0;
+}
+
+.img3{
+    width:1100px;
+    padding:80px 0 0 0;
+    margin:200px 0 0 0;
+}
+
+.img4{
+margin:100px 0 0 0;
+}
+.footers{
+    display:flex;
+    justify-content:space-between;
+    margin:100px 0 0 0;
+}
+
+.logo1{
+    padding:0 30px;  
+}
+
+.text8{
+    text-align:center;
+    font-family:sans-serif;
+    font-size:16px;
+    padding:40px 0;
+}
+
+.account1{
+    align-items:center;
+    text-align:center;
+    padding:40px 0;
+    gap:15px;
+}
